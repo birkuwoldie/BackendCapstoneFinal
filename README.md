@@ -1,4 +1,4 @@
-## MetaBEDCapstone
+## MetaBackEndCapstone
 Back-End Developer Capstone
 
 
